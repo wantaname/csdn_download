@@ -4,6 +4,9 @@ python开发的csdn自动下载及发货的QQ机器人
 - 要用自己的积分号或者vip号，并非免积分下载
 - 此机器人应用范例QQ群：894761502，需要下载的也可以加下
 - 代码很水，洋洋千行，还有很大优化空间
+## 成果展示
+<img src="https://github.com/wantaname/csdn_download/blob/master/show/pic1.jpg" width="400px" height="800px" />    <img src="https://github.com/wantaname/csdn_download/blob/master/show/pic2.jpg" width="400px" height="800px" />
+
 ## 功能
 - 多号登录，包括vip和积分号
 - 根据资源积分大小选择使用 积分号 or vip号
